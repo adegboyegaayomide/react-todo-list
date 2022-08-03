@@ -1,3 +1,4 @@
 # react-todo-list
 
-This is a simple todo list app built with React, Redux and Webpack. I built this app during my [tutorial series on YouTube](https://www.youtube.com/playlist?list=PLQDnxXqV213JJFtDaG0aE9vqvp6Wm7nBg).
+### images
+![Screenshot (7)](https://user-images.githubusercontent.com/83494187/182673896-be54e551-3bf1-4773-82df-256d53b7a867.png)
